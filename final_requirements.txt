@@ -2,3 +2,20 @@ crewai==1.4.1
 duckdb==1.2.1
 sentence_transformers==5.1.2
 streamlit==1.37.1
+numpy
+pandas
+openai
+tiktokennumpy
+pandas
+openai
+tiktokenduckdb
+streamlit
+duckdb
+sentence-transformers
+numpy
+pandas
+openai
+tiktoken
+git add final_requirements.txt
+git commit -m "Add duckdb dependency for deployment"
+git push
